@@ -202,7 +202,9 @@ turning=false;
         
         //tell the lights to render
         for(var i = 0; i &lt; array_length_1d(render_lights)-1; i+=1){
-            if((render_lights[i]).static) (render_lights[i]).rendered = false;
+            if(instance_exists(render_lights[i])){
+                if((render_lights[i]).static) (render_lights[i]).rendered = false;
+            }
         }
     }
     else phy_linear_velocity_x = 0;
