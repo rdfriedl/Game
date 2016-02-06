@@ -121,7 +121,6 @@
   <backgrounds name="background">
     <background>background\map</background>
     <background>background\title</background>
-    <background>background\over_lay</background>
     <background>background\arrows</background>
   </backgrounds>
   <paths name="paths"/>

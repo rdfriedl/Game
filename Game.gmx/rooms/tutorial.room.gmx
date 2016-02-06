@@ -277,9 +277,6 @@
     <instance objName="checkpoint" x="3072" y="688" name="inst_10618779" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="text_obj" x="3120" y="592" name="inst_97FF87B9" locked="0" code="text=&quot;and this is a checkpoint&quot;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="text_obj" x="3120" y="624" name="inst_8542D8C0" locked="0" code="text='press &quot;ctrl&quot; to activate it and save your progress';&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="gravity_switcher" x="288" y="560" name="inst_39E5DB47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="180"/>
-    <instance objName="teleporter" x="208" y="544" name="inst_65C19110" locked="0" code="" scaleX="1" scaleY="1" colour="4294934528" rotation="0"/>
-    <instance objName="teleporter" x="704" y="512" name="inst_7C9B056D" locked="0" code="" scaleX="1" scaleY="1" colour="4294934528" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="arrows" x="336" y="512" w="60" h="60" xo="120" yo="300" id="10000005" name="inst_C26C2F34" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
