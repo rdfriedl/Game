@@ -112,7 +112,8 @@
     </sprites>
     <sprite>sprites\sprite57</sprite>
     <sprite>sprites\achievement_spr</sprite>
-    <sprite>sprites\gravity_switcher_spr</sprite>
+    <sprite>sprites\gravity_switcher_down_spr</sprite>
+    <sprite>sprites\gravity_switcher_up_spr</sprite>
     <sprite>sprites\platform_h_spr</sprite>
     <sprite>sprites\sound_rect_spr</sprite>
     <sprite>sprites\teleport_spr</sprite>
@@ -264,7 +265,8 @@
     <object>objects\point</object>
     <object>objects\life</object>
     <object>objects\checkpoint</object>
-    <object>objects\gravity_switcher</object>
+    <object>objects\gravity_switcher_up</object>
+    <object>objects\gravity_switcher_down</object>
     <object>objects\achievement</object>
     <object>objects\teleporter</object>
     <object>objects\teleporter_end</object>
