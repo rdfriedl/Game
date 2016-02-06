@@ -37,6 +37,7 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\player_spr</sprite>
+    <sprite>sprites\player_part_spr</sprite>
     <sprite>sprites\checkpoint_spr</sprite>
     <sprite>sprites\life_spr</sprite>
     <sprite>sprites\point_spr</sprite>
@@ -262,6 +263,7 @@
     </objects>
     <object>objects\sound_rect</object>
     <object>objects\player</object>
+    <object>objects\player_part</object>
     <object>objects\text_obj</object>
     <object>objects\point</object>
     <object>objects\life</object>
