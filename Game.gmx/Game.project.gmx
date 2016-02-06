@@ -149,6 +149,7 @@
       <script>scripts\power_grid_get.gml</script>
       <script>scripts\power_grid_set.gml</script>
       <script>scripts\power_grid_reset.gml</script>
+      <script>scripts\power_grid_clear_all.gml</script>
       <script>scripts\power_inst_init.gml</script>
       <script>scripts\power_inst_get.gml</script>
       <script>scripts\power_inst_set.gml</script>
