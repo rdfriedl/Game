@@ -3,9 +3,7 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <NewExtensions>
-    <extension index="0">extensions\KongAPI</extension>
-  </NewExtensions>
+  <NewExtensions/>
   <sounds name="sound">
     <sound>sound\player_land</sound>
     <sound>sound\switch1</sound>
@@ -215,14 +213,7 @@
     <script>scripts\init_ui_var.gml</script>
     <script>scripts\sliced_render.gml</script>
     <script>scripts\draw_text_on_over.gml</script>
-    <scripts name="kongregate">
-      <script>scripts\kong_init.gml</script>
-      <script>scripts\kong_update_states.gml</script>
-    </scripts>
   </scripts>
-  <shaders name="shaders">
-    <shader type="GLSLES">shaders\shader0.shader</shader>
-  </shaders>
   <fonts name="fonts">
     <font>fonts\font</font>
   </fonts>

@@ -1,2 +1,0 @@
-self.phy_linear_velocity_xprevious = phy_linear_velocity_x
-self.phy_linear_velocity_yprevious = phy_linear_velocity_y
