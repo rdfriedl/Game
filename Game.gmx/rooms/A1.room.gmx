@@ -76,7 +76,6 @@ global.music = music4;</code>
     <instance objName="air_elavator" x="688" y="368" name="inst_7EFADB35" locked="0" code="" scaleX="1" scaleY="22" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="328" y="192" name="inst_EA90C727" locked="0" code="" scaleX="13.25" scaleY="1.5" colour="4294967295" rotation="0"/>
     <instance objName="lamp" x="960" y="272" name="inst_936D01E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="point" x="928" y="496" name="inst_3141824D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="1136" y="416" name="inst_9DB9A3FE" locked="0" code="" scaleX="8.5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="lamp_small_angle" x="1384" y="632" name="inst_0FB686C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="1392" y="608" name="inst_9D685A40" locked="0" code="" scaleX="0.5" scaleY="0.75" colour="4294967295" rotation="0"/>
@@ -114,6 +113,7 @@ global.music = music4;</code>
     <instance objName="wall1" x="816" y="640" name="inst_B167516E" locked="0" code="" scaleX="11" scaleY="1.5" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="1120" y="624" name="inst_445612D6" locked="0" code="" scaleX="1.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="752" y="224" name="inst_E5CF5811" locked="0" code="" scaleX="12" scaleY="1.5" colour="4294967295" rotation="0"/>
+    <instance objName="point" x="976" y="480" name="inst_98DEFC8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="arrows" x="808" y="320" w="60" h="60" xo="120" yo="120" id="10000015" name="inst_F8F3DEDA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
