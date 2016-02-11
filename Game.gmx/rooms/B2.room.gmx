@@ -26,9 +26,9 @@
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
-    <page>2</page>
-    <xoffset>473</xoffset>
-    <yoffset>379</yoffset>
+    <page>0</page>
+    <xoffset>759</xoffset>
+    <yoffset>217</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -67,11 +67,11 @@
     <instance objName="wall1" x="976" y="160" name="inst_52E87E86" locked="0" code="" scaleX="5.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="air_elavator" x="1024" y="0" name="inst_43E60F7C" locked="0" code="" scaleX="1" scaleY="20" colour="4294967295" rotation="0"/>
     <instance objName="lamp" x="1024" y="-32" name="inst_841B5A36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall1" x="1632" y="672" name="inst_0B88E08B" locked="0" code="" scaleX="6.5" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall1" x="1728" y="544" name="inst_6DE87B6B" locked="0" code="" scaleX="3.5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1584" y="672" name="inst_0B88E08B" locked="0" code="" scaleX="8" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1680" y="544" name="inst_6DE87B6B" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="lamp" x="1744" y="576" name="inst_237B5C11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="checkpoint" x="912" y="160" name="inst_9122257C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="checkpoint" x="1664" y="656" name="inst_6E2931E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="checkpoint" x="1680" y="656" name="inst_6E2931E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="spawn_point" x="976" y="128" name="inst_8925245B" locked="0" code="r=G1&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="spawn_point" x="1744" y="640" name="inst_91136629" locked="0" code="r=B3&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="144" y="1008" name="inst_06D8AE1E" locked="0" code="" scaleX="6" scaleY="0.5" colour="4294967295" rotation="0"/>
@@ -101,9 +101,9 @@
     <instance objName="wall1" x="1152" y="928" name="inst_3B4732AC" locked="0" code="" scaleX="4.5" scaleY="1.5" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="944" y="976" name="inst_677EFB67" locked="0" code="" scaleX="14.5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="864" y="656" name="inst_FE76E615" locked="0" code="" scaleX="3" scaleY="5" colour="4294967295" rotation="0"/>
-    <instance objName="wall1" x="960" y="656" name="inst_08B4BF4B" locked="0" code="" scaleX="10" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall1" x="1408" y="544" name="inst_9B108BF1" locked="0" code="" scaleX="1" scaleY="11" colour="4294967295" rotation="0"/>
-    <instance objName="wall1" x="1232" y="512" name="inst_CF1024DB" locked="0" code="" scaleX="6.5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="960" y="656" name="inst_08B4BF4B" locked="0" code="" scaleX="10.5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1408" y="448" name="inst_9B108BF1" locked="0" code="" scaleX="1" scaleY="13.5" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1232" y="512" name="inst_CF1024DB" locked="0" code="" scaleX="5.5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="1376" y="656" name="inst_A6A1FC7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="960" y="688" name="inst_8561FE67" locked="0" code="" scaleX="3.5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="lamp" x="1120" y="688" name="inst_6A1EFAC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -151,13 +151,21 @@
     <instance objName="wall1" x="1488" y="864" name="inst_445ADB8A" locked="0" code="" scaleX="3.5" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="gravity_switcher_up" x="1392" y="832" name="inst_75FBFD0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall1" x="960" y="720" name="inst_12365C0C" locked="0" code="" scaleX="2" scaleY="1.5" colour="4294967295" rotation="0"/>
+    <instance objName="kill_wall" x="944" y="960" name="inst_522F6069" locked="0" code="" scaleX="4" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="air_elavator" x="1440" y="592" name="inst_806CDA84" locked="0" code="" scaleX="1" scaleY="24" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1488" y="608" name="inst_39E08993" locked="0" code="" scaleX="1.5" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1536" y="688" name="inst_674100F8" locked="0" code="" scaleX="1.54838705062866" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="kill_wall" x="1536" y="672" name="inst_7A569E0F" locked="0" code="" scaleX="1.54838705062866" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1664" y="352" name="inst_7D24F593" locked="0" code="" scaleX="5.5" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1440" y="448" name="inst_62F56318" locked="0" code="" scaleX="9" scaleY="1.02999997138977" colour="4294967295" rotation="0"/>
+    <instance objName="wall1" x="1808" y="384" name="inst_CE0A241A" locked="0" code="" scaleX="1" scaleY="5" colour="4294967295" rotation="0"/>
+    <instance objName="kill_wall" x="1680" y="528" name="inst_FCBD4008" locked="0" code="" scaleX="4" scaleY="0.5" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="arrows" x="368" y="912" w="60" h="60" xo="240" yo="180" id="10000051" name="inst_86F00F75" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="arrows" x="953" y="888" w="60" h="60" xo="120" yo="180" id="10000055" name="inst_10BE8AF2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="arrows" x="1088" y="864" w="60" h="60" xo="120" yo="180" id="10000056" name="inst_B1CBB262" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="arrows" x="1232" y="768" w="60" h="60" xo="120" yo="180" id="10000057" name="inst_830881CD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="arrows" x="1296" y="608" w="60" h="60" xo="180" yo="300" id="10000058" name="inst_210C8E87" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="arrows" x="1104" y="864" w="60" h="60" xo="120" yo="300" id="10000061" name="inst_A444FF7A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>-1</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

@@ -117,6 +117,7 @@
     <sprite>sprites\sound_rect_spr</sprite>
     <sprite>sprites\teleport_spr</sprite>
     <sprite>sprites\teleporter_overlay_spr</sprite>
+    <sprite>sprites\gravity_rect_spr</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\map</background>
@@ -259,8 +260,12 @@
     <object>objects\point</object>
     <object>objects\life</object>
     <object>objects\checkpoint</object>
-    <object>objects\gravity_switcher_up</object>
-    <object>objects\gravity_switcher_down</object>
+    <objects name="gravity">
+      <object>objects\gravity_rect_up</object>
+      <object>objects\gravity_rect_down</object>
+      <object>objects\gravity_switcher_down</object>
+      <object>objects\gravity_switcher_up</object>
+    </objects>
     <object>objects\achievement</object>
     <object>objects\teleporter</object>
     <object>objects\teleporter_end</object>

@@ -53,7 +53,7 @@ checked = false;
 light = instance_create(x,y,obj_light);
 light.radius = 64;
 light.alpha = 0.3;
-light.color = c_yellow
+light.color = make_colour_rgb(200,255,255);
 light.static = true;
 </string>
           </argument>
